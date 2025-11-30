@@ -1,0 +1,14 @@
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_i2c.h:1565:26:LL_I2C_IsActiveFlag_TXIS	2
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_i2c.h:1617:26:LL_I2C_IsActiveFlag_STOP	2
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_i2c.h:1774:22:LL_I2C_ClearFlag_STOP	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_i2c.h:2133:22:LL_I2C_HandleTransfer	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_i2c.h:2237:22:LL_I2C_TransmitData8	1
+../ssd1306_LL/ssd1306_ll.c:96:13:I2C_Write	5
+../ssd1306_LL/ssd1306_ll.c:120:13:WriteCmd	1
+../ssd1306_LL/ssd1306_ll.c:128:6:SSD1306_Init	1
+../ssd1306_LL/ssd1306_ll.c:156:6:SSD1306_Clear	1
+../ssd1306_LL/ssd1306_ll.c:161:6:SSD1306_UpdateScreen	2
+../ssd1306_LL/ssd1306_ll.c:174:6:SSD1306_DrawPixel	4
+../ssd1306_LL/ssd1306_ll.c:184:6:SSD1306_DrawChar	6
+../ssd1306_LL/ssd1306_ll.c:198:6:SSD1306_WriteString	3
+../ssd1306_LL/ssd1306_ll.c:208:6:SSD1306_DrawProgressBar	6
