@@ -27,11 +27,11 @@
 /* ========================================================================== */
 
 // --- Network Configuration ---
-#define WIFI_SSID           "FiberHGW_TP9928"
-#define WIFI_PASS           "K.rc??66"
+#define WIFI_SSID           ""
+#define WIFI_PASS           ""
 
 // --- Server Configuration ---
-#define BASE_URL            "http://192.168.1.103:8000"
+#define BASE_URL            ""
 #define URL_VERSION_FILE    BASE_URL "/version.txt"
 #define URL_FIRMWARE_BIN    BASE_URL "/app.bin"
 
